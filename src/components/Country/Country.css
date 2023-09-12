@@ -1,0 +1,15 @@
+.country{
+    background-color: papayawhip;
+    border: 2px solid blue;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.country img{
+    height: 160px;
+    width: 320px;
+}
+
+.visited{
+    background-color: aquamarine;
+}
